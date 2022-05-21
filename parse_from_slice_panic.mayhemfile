@@ -1,0 +1,5 @@
+project: tokei
+target: parse_from_slice_panic
+
+cmds:
+  - cmd: /parse_from_slice_panic
